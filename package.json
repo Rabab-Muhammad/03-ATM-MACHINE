@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ra5243/03-atm-machine": "^2.1.2",
     "chalk": "^5.3.0",
     "inquirer": "^9.2.17"
   },
